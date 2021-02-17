@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: uk.co.real_logic.sbe.SbeTool
+Specification-Title: Simple Binary Encoding
+Specification-Version: 1.0
+Implementation-Title: SBE
+Implementation-Version: 1.21.1-SNAPSHOT
+Implementation-Vendor: Real Logic Limited
+Automatic-Module-Name: uk.co.real_logic.sbe.all
+
